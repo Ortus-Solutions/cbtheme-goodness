@@ -25,9 +25,9 @@ limitations under the License.
 --->
 <cfoutput>
 <ul>
-	<!--- Always showing home page --->
-  	<li><a href="#cb.linkHome()#" title="Go Home!">Home</a></li>
 	<!--- Root Menu --->
   	#cb.rootMenu(type="li" )#
+  	<!--- Always showing home page --->
+  	<li><a href="#cb.linkBlog()#" title="Go Blog!">Blog</a></li>
 </ul>
 </cfoutput>

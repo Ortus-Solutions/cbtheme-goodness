@@ -1,0 +1,42 @@
+{
+    "name":"ContentBox Theme - Goodness",
+    "version":"2.0.0",
+    "slug":"cbtheme-goodness",
+    "location" : "https://github.com/contentbox-themes/cbtheme-goodness/archive/master.zip",
+    "author":"Ortus Solutions",
+    "homepage":"http://www.ortussolutions.com/products/contentbox",
+    "documentation":"https://github.com/contentbox-themes/cbtheme-goodness",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/contentbox-themes/cbtheme-goodness"
+    },
+    "bugs":"https://github.com/contentbox-themes/cbtheme-goodness/issues",
+    "shortDescription":"A blueish goodnes",
+    "description":"",
+    "instructions":"",
+    "changelog":"",
+    "type":"contentbox-themes",
+    "projectURL":"",
+    "license":[
+        {
+            "type":"Apache2",
+            "URL":"http://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "contributors":[
+        
+    ],
+    "dependencies":{
+        
+    },
+    "devDependencies":{
+        
+    },
+    "installPaths":{
+        
+    },
+    "ignore":[
+        "**/.*",
+        "tests"
+    ]
+}

@@ -1,3 +1,4 @@
-# ContentBox Goodness theme
+# Goodness
+A nice blueish goodness
 
-A nice looking ContentBox goodness theme
+<img src="https://raw.githubusercontent.com/contentbox-themes/cbtheme-goodness/master/screenshot.png" class="img-responsive">
